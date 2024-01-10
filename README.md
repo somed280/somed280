@@ -1,1 +1,1 @@
-whatsapp proxy
+https://wa.me/proxy?host=README.md&chatTLS=0
