@@ -1,1 +1,1 @@
-https://wa.me/proxy?host=README.md&chatTLS=0
+http://v.whatsapp.com/724460
